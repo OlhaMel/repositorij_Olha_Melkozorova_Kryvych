@@ -11,4 +11,4 @@ class Greeter
 >>>>>>> master
      "Hello", #{@who}"
     end
-1n
+
