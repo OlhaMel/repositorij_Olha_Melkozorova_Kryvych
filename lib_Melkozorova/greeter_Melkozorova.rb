@@ -6,7 +6,7 @@ class Greeter
     end
 
     def yreet 
-=======
+==
     def reet 
 >>>>>>> master
      "Hello", #{@who}"
