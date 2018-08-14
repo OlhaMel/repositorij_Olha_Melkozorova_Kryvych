@@ -1,1 +1,1 @@
-guyyu ўорач
+guyyu 
